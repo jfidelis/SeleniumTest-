@@ -76,3 +76,27 @@ Unable to read VR Path Registry from C:\Users\Jeferson IP Fidelis\AppData\Local\
 1515766252942	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1515766253346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
 1515766253534	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1515768839837	geckodriver	INFO	geckodriver 0.19.1
+1515768839843	geckodriver	INFO	Listening on 127.0.0.1:64160
+1515768842949	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JEFERS~1\\AppData\\Local\\Temp\\rust_mozprofile.8DY3srXW3BQh"
+1515768844634	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jeferson IP Fidelis\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515768846979	Marionette	INFO	Listening on port 64168
+1515768847150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515768847241	Marionette	DEBUG	Register listener.js for window 4294967297
+1515768847278	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515768847758	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515768847758	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515768848571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tivit.mdacesso.com.br/logon.aspx?ReturnUrl=%2f"
+1515768848620	Marionette	DEBUG	Received DOM event "pageshow" for "http://tivit.mdacesso.com.br/logon.aspx?ReturnUrl=%2f"
+Unable to read VR Path Registry from C:\Users\Jeferson IP Fidelis\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Jeferson IP Fidelis\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
